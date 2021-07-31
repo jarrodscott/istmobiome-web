@@ -42,4 +42,4 @@ draft: false
 
 ---
 
-Use the `Cite` button above to access a BibTeX formatted bibliography for liturature used in researching & preparing this presentation.
+Use the `Cite` button above to access a BibTeX formatted bibliography for literature used in researching & preparing this presentation.

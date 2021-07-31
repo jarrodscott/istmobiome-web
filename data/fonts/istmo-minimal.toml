@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Lato:wght@300&family=Nunito&family=PT+Mono&family=PT+Sans&family=PT+Sans+Narrow&family=PT+Serif&family=Roboto+Condensed&family=Ropa+Sans&family=Source+Sans+Pro&family=Work+Sans"
+google_fonts = "family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Lato:wght@300&family=Nunito+Sans:wght@300&family=Nunito:wght@300&family=PT+Mono&family=PT+Sans&family=PT+Sans+Narrow&family=PT+Serif&family=Roboto+Condensed&family=Roboto:wght@300&family=Ropa+Sans&family=Source+Sans+Pro"
 
 # Font families
 heading_font = "Lato"

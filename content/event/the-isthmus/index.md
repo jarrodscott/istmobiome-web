@@ -39,4 +39,4 @@ draft: false
 
 ---
 
-Use the `Cite` button above to access a BibTeX formatted bibliography for liturature used in researching & preparing this presentation. The `video` button links to an awesome video on the rise of the Isthmus by the [STRI storytellers](https://stri.si.edu/news/film-and-photography).
+Use the `Cite` button above to access a BibTeX formatted bibliography for literature used in researching & preparing this presentation. The `video` button links to an awesome video on the rise of the Isthmus by the [STRI storytellers](https://stri.si.edu/news/film-and-photography).

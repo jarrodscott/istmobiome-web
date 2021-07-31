@@ -30,22 +30,37 @@ footer .powered-by {
  *  Change from assets/scss/academic/_root.scss
  **************************************************/
 
-/*.hero-title {
-  color: #E1E1E1;
-}
+ .wg-hero {
+   padding: 3em 0; // More compact top and bottom padding for Hero.
+ }
 
-p#hero-lead {
-  color: #414141;
-}
-*/
+ .hero-title {
+   font-size: 2.7rem;
+   margin-top: 0;
+   line-height: 1;
+ }
 
+ .hero-lead {
+   max-width: 768px;
+   font-size: 1.35rem;
+ }
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  opacity: 1;
+ }
 /*************************************************
  *  Change From assets/scss/academic/_widgets.scss
  **************************************************/
-.wg-hero.dark .hero-note > * {
-  color: #FAFAFA;
-  /*text-shadow: 1px 1px 4px rgba(0,0,0,0.5);*/ /* Uncomment to standout on complicated backgrounds. */
-}
+ .wg-hero.dark .hero-title,
+ .wg-hero.dark .hero-lead,
+ .wg-hero.dark .hero-cta-alt,
+ .wg-hero.dark .hero-note > * {
+   color: #FAFAFA;
+   opacity: 1;
+   text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+
+   /* Uncomment to standout on complicated backgrounds. */
+ }
 
 .wg-hero.dark a:not(.wg-hero .btn) {
   color: #FAFAFA;
