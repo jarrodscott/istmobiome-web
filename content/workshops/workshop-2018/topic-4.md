@@ -3,14 +3,10 @@ date: "2018-11-05T00:00:00+01:00"
 draft: false
 linktitle: No. 4 Thursday
 editable: false
-menu:
-  workshop-2018:
-    parent: Topics
-    weight: 4
 title: Expanding the breath of host-microbe studies
 toc: true
-type: docs
-weight: 1
+type: book
+weight: 7
 ---
 
 ## Overview
@@ -86,3 +82,5 @@ Report and discuss ideas
 #### 1900--	Happy hour & Dinner
 
 ## References
+
+{{< list_children >}}

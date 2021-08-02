@@ -41,13 +41,13 @@ item:
   align: right # Choose `center`, `left`, or `right`.
   content: it connected two continents
   overlay_color: '#333'
-  overlay_filter: 0.0
+  overlay_filter: 0.8
   overlay_img: site_banner/land.jpg
 - title: '...in the Sea.'
   align: right # Choose `center`, `left`, or `right`.
   content: 'it divided one ocean. '
   overlay_color: '#333'
-  overlay_filter: 0.3
+  overlay_filter: 0.8
   overlay_img: site_banner/sea.jpg
 - title: ''
   align: center # Choose `center`, `left`, or `right`.

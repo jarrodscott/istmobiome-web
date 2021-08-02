@@ -16,27 +16,27 @@ image:
   focal_point:
   preview_only: true
 links:
-- name: Go to Project Site
+- name: Project Site
   url: https://hypocolypse.github.io/
 - icon: database
   icon_pack: fas
   name: Data
   url: https://hypocolypse.github.io/data-availability.html
-- icon: code
-  icon_pack: fas
-  name: Code
-  url: https://hypocolypse.github.io/raw_code.txt
+#- icon: code
+#  icon_pack: fas
+#  name: Code
+#  url: https://hypocolypse.github.io/raw_code.txt
 - icon: github
   icon_pack: fab
   name: GitHub
   url: https://github.com/hypocolypse/web/
 - name: Interactive Data
   url: https://anvi-server.org/jscott/hypocolypse_16s_rrna_indicator_species_analysis
-#- icon: newspaper
-#  icon_pack: fas
-#  name: Publication
-#  url: https://hypocolypse.github.io/publication.html
-publication: null
+- icon: newspaper
+  icon_pack: fas
+  name: Publication
+  url: publication/johnson-2021/
+publication: [johnson-2021]
 slides:
 url_code: ""
 url_pdf: ""
@@ -53,7 +53,7 @@ Welcome. This page provides access to our study on hypoxia-driven coral bleachin
 To access the complete bioinformatic workflow & raw data use the buttons at the top of the page or visit
 [https://hypocolypse.github.io/](https://hypocolypse.github.io/)
 
-You can also use the buttons above to access the the build code for the website, an interactive figure, raw R code, etc. 
+You can also use the buttons above to access the the build code for the website, an interactive figure, raw R code, etc.
 
 {{% /callout %}}
 
@@ -81,7 +81,7 @@ Use the `Cite` button above to access a BibTeX formatted bibliography for the re
 
 <div class="credits">
   <p>
-    Banner photo credits, Maggie Johnson & Noelle Lucey. 
+    Banner photo credits, Maggie Johnson & Noelle Lucey.
   </p>
 </div>
 

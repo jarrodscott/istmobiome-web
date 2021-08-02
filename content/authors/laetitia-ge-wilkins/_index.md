@@ -8,15 +8,15 @@ authors:
 - laetitia-ge-wilkins
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name:
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in host-microbe interactions, their evolution, and their role in ecosystem function and stability.
@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://github.com/megaptera-helvetiae
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -80,4 +80,3 @@ user_groups:
 - Researchers
 #- Visitors
 ---
-

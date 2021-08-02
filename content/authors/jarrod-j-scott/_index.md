@@ -7,7 +7,7 @@ authors:
 - jarrod-j-scott
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Postdoctoral Fellow
@@ -53,7 +53,7 @@ social:
   icon_pack: fab
   link: https://github.com/jarrodscott/
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -83,4 +83,3 @@ I am inspired by the tales of old-time naturalists who journeyed the world, iden
 Microorganisms are a major thread that weave through all systems, and microbial ecology serves as an intellectual bridge that connects numerous, often disparate disciplines. Following this thread has taken my research from the forest floor to the ocean floor. My long-term interests are to understand how collections of comparatively simple elements—-from nucleotides to genes, proteins, and individual cells—-coalesce into remarkably complex and dynamic communities. What mechanisms drive the establishment, organization, and development of these communities. My approach leverages a combination of marine and terrestrial fieldwork, advanced sequencing technologies, and bioinformatics, to reveal microbial assemblages that are functionally unified and adapted to specific habitats.
 
 {{< icon name="download" pack="fas" >}} Download a {{< staticref "https://github.com/istmobiome/istmobiome.github.io/raw/master/jarrod/jarrod-cv.pdf" "newtab" >}}PDF of my CV{{< /staticref >}} or click the CV link on the left for an HTML version..
-

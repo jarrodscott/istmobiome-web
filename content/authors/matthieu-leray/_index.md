@@ -7,7 +7,7 @@ authors:
 - matthieu-leray
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Postdoctoral Fellow
@@ -66,7 +66,7 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/marine.ecology.panama/
-  
+
 highlight_name: true  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

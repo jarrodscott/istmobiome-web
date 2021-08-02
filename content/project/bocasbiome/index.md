@@ -16,16 +16,16 @@ image:
   focal_point:
   preview_only: true
 links:
-- name: Go to Project Site
+- name: Project Site
   url: https://bocasbiome.github.io/
 - icon: database
   icon_pack: fas
   name: Data
 #  url: https://projectdigest.github.io/data_availability.html
-- icon: code
-  icon_pack: fas
-  name: Code
-  url: https://bocasbiome.github.io/raw_code.txt
+#- icon: code
+#  icon_pack: fas
+#  name: Code
+#  url: https://bocasbiome.github.io/raw_code.txt
 - icon: github
   icon_pack: fab
   name: GitHub
@@ -46,7 +46,7 @@ url_video: ""
 weight: 2
 ---
 
-Welcome. This page provides a link to the website for our study on the intestinal microbiome of Bocas del Toro butterflyfish entitled <em>The gut microbiome stability of a butterflyfish is disrupted on severely degraded Caribbean reef habitats.</em>. 
+Welcome. This page provides a link to the website for our study on the intestinal microbiome of Bocas del Toro butterflyfish entitled <em>The gut microbiome stability of a butterflyfish is disrupted on severely degraded Caribbean reef habitats.</em>.
 
 
 {{% callout note %}}

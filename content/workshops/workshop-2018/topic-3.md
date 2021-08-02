@@ -3,15 +3,10 @@ date: "2018-11-05T00:00:00+01:00"
 draft: false
 linktitle: No. 3 Thursday
 editable: false
-
-menu:
-  workshop-2018:
-    parent: Topics
-    weight: 3
 title: Conserving Diversity
 toc: true
-type: docs
-weight: 1
+type: book
+weight: 6
 ---
 
 ## Overview
@@ -53,3 +48,5 @@ Group members, moderator, note taker/presenter
 See end of No. 4
 
 ## References
+
+{{< list_children >}}

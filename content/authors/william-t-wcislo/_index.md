@@ -7,7 +7,7 @@ authors:
 - william-t-wcislo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Staff Scientist
@@ -18,7 +18,7 @@ organizations:
   url: https://stri.si.edu/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+#bio:
 
 #interests:
 #- Host-microbe interactions
@@ -29,10 +29,10 @@ education:
   courses:
   - course: Ph.D. Entomology
     institution: University of Kansas
-    year: 
+    year:
   - course: B.S., Biology
     institution: University of Michigan
-    year: 
+    year:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -48,7 +48,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/megaptera-helvetiae
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 #- icon: cv
 #  icon_pack: ai

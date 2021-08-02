@@ -22,8 +22,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
 ## ADVANCED
@@ -35,7 +35,7 @@ paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, _files$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, _files$, .DS_Store]
 permalinks:
   authors: '/author/:slug/'
   event: '/talk/:slug/'
@@ -46,19 +46,9 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    codeFences: false
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
 imaging:
   resampleFilter: lanczos
-  quality: 90
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -66,18 +56,14 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+markup:
+  _merge: deep
 related:
   threshold: 80
   includeNewer: true
   toLower: true
   indices:
-    - name: authors
-      weight: 20
-    - name: summary
-      weight: 50
-    - name: title
-      weight: 60
     - name: tags
-      weight: 80
+      weight: 100
     - name: categories
       weight: 70

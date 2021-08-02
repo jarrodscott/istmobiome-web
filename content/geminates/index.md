@@ -17,13 +17,11 @@ image:
 
 {{< toc >}}
 
-
 ## Geminate *Alpheus* shrimp
 
 <br/>
 
 {{< gallery album = "shrimp">}}
-
 
 ## Geminate Fish
 
@@ -31,12 +29,10 @@ image:
 
 {{< gallery album = "fish">}}
 
-
 ## Geminate Lucinidae Clams
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{< gallery album = "clams">}}
+&nbsp;{{< gallery album = "clams">}}
 
 <hr>
-

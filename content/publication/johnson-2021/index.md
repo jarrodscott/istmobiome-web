@@ -1,13 +1,18 @@
 ---
 title: "Rapid ecosystem-scale consequences of acute deoxygenation on a Caribbean coral reef"
 authors:
-- Maggie D Johnson
-- Jarrod J Scott
-- Matthieu Leray
-- Noelle Lucey
-- Lucia M Rodriguez Bravo
-- William L Wied
-- Andrew H Altieri
+  - Maggie D Johnson
+  - Jarrod J Scott
+  - Matthieu Leray
+  - Noelle Lucey
+  - Lucia M Rodriguez Bravo
+  - William L Wied
+  - Andrew H Altieri
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
+  - "Equal contribution"
+  - "Equal contribution"
 date: "2021-07-26T00:00:00Z"
 doi: "10.1038/s41467-021-24777-3"
 
@@ -71,7 +76,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [hypocolypse]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -15,10 +15,10 @@ image:
   focal_point:
   preview_only: true
 links:
-- name: Go to the Workflow
+- name: Coming Soon
 #  url: projects/trans-water/
-- name: Authors
-  url:
+#- name: Authors
+#  url:
 #- icon: database
 #  icon_pack: fas
 #  name: Data
@@ -27,15 +27,15 @@ links:
 #  icon_pack: fas
 #  name: Code
 #  url: https://projectdigest.github.io/raw_code.txt
-- icon: github
-  icon_pack: fab
-  name: GitHub
+#- icon: github
+#  icon_pack: fab
+#  name: GitHub
 #  url: https://github.com/istmobiome/web/
 #- icon: newspaper
 #  icon_pack: fas
 #  name: Publication
 #  url: https://projectdigest.github.io/publication.html
-bibliography: [cite.bib]
+#bibliography: [cite.bib]
 
 #- icon: database
 #  icon_pack: fas

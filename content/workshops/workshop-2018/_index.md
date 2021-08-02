@@ -3,17 +3,13 @@ categories: []
 date: "2018-11-05T00:00:00+01:00"
 draft: false
 #lastmod: "2018-11-05T00:00:00+01:00"
-linktitle: Marine Microbiome Workshop 2018
+linktitle: Front Page
 editable: false
-menu:
-  workshop-2018:
-    name: Front Page
-    weight: 1
 summary: From model organisms to ecosystems&#58; scaling-up our understanding of host-microbe symbiosis in the sea
 tags: []
 title: 2018 Marine Microbiome Workshop
 toc: false
-type: docs
+type: book
 weight: 1
 ---
 
@@ -23,11 +19,11 @@ December 3--8 2018<br/>
 Smithsonian Tropical Research Institute<br/>
 Bocas del Toro Research Station, Panama<br/>
 
-{{< figure src = "images/participants.png" caption = "Participants from the 2018 workshop. From left to right. **FRONT ROW**: Jarrod Scott, Noelle Lucey, Allen Herre, Douglas Rasher, Raquel Peixoto, Rebecca Vega Thurber, Tiago Pereira, Jonathan Eisen. **MIDDLE ROW**: Benedict Yuen, Laetitia Wilkins, Matthieu Leray, Emilia Sogin, Lizzy Wilbanks, Emmett Duffy, Katherine Sharp. **BACK ROW**: David Coil, Aaron O’Dea, Jon Kaye, Luis Mejia, Robert Thacker. Not pictured: Rachel Collin, Harilaos Lessios, Jennifer McMillan,  Ross Robertson, William Wcislo.">}}
+{{< figure src = "images/participants.png" caption = "Participants from the 2018 workshop. From left to right. **FRONT ROW**: Jarrod J Scott, Noelle Lucey, Allen Herre, Douglas Rasher, Raquel Peixoto, Rebecca Vega Thurber, Tiago Pereira, Jonathan Eisen. **MIDDLE ROW**: Benedict Yuen, Laetitia Wilkins, Matthieu Leray, Emilia Sogin, Lizzy Wilbanks, Emmett Duffy, Katherine Sharp. **BACK ROW**: David Coil, Aaron O’Dea, Jon Kaye, Luis Mejia, Robert Thacker. Not pictured: Rachel Collin, Harilaos Lessios, Jennifer McMillan,  Ross Robertson, William Wcislo.">}}
 
 ## Background
 
-Here you will find information for a workshop we created and organized to explore the nature of host-microbiome associations in marine environments. The workshop was jointly funded by [The Gordon & Betty Moore Foundation](https://www.moore.org/) and [The Smithsonian Tropical Research Institute](https://stri.si.edu/). We hosted 25 researchers from 16 different institutions in Bocas del Toro, Panama, during the winter of 2018 for 5 days of presentations, discussions, and breakout sessions. 
+Here you will find information for a workshop we created and organized to explore the nature of host-microbiome associations in marine environments. The workshop was jointly funded by [The Gordon & Betty Moore Foundation](https://www.moore.org/) and [The Smithsonian Tropical Research Institute](https://stri.si.edu/). We hosted 25 researchers from 16 different institutions in Bocas del Toro, Panama, during the winter of 2018 for 5 days of presentations, discussions, and breakout sessions.
 
 {{% callout note %}}
 

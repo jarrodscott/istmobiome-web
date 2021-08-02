@@ -16,16 +16,16 @@ image:
   focal_point:
   preview_only: true
 links:
-- name: Go to Project Site
+- name: Project Site
   url: https://projectdigest.github.io/
 - icon: database
   icon_pack: fas
   name: Data
   url: https://projectdigest.github.io/data_availability.html
-- icon: code
-  icon_pack: fas
-  name: Code
-  url: https://projectdigest.github.io/raw_code.txt
+#- icon: code
+#  icon_pack: fas
+#  name: Code
+#  url: https://projectdigest.github.io/raw_code.txt
 - icon: github
   icon_pack: fab
   name: GitHub
@@ -34,8 +34,8 @@ links:
   icon_pack: fas
   name: Publication
   url: publication/scott-etal-2020/
-- name: Authors
-  url: https://projectdigest.github.io/people.html
+#- name: Authors
+#  url: https://projectdigest.github.io/people.html
 publication: [scott-etal-2020]
 slides:
 url_code: ""

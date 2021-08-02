@@ -3,15 +3,10 @@ date: "2018-11-05T00:00:00+01:00"
 draft: false
 linktitle: No. 1 Tuesday
 editable: false
-
-menu:
-  workshop-2018:
-    parent: Topics
-    weight: 1
 title: Defining & Sampling a Microbiome
 toc: true
-type: docs
-weight: 1
+type: book
+weight: 4
 ---
 
 ## Overview
@@ -163,3 +158,5 @@ Evening Discussion
 * Do common protocols introduce bias and selection?
 * Which species are missed?
 * Would it make sense to produce guidelines/website/protocols?
+
+{{< list_children >}}

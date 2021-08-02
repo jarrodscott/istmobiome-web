@@ -1,18 +1,15 @@
 ---
 date: "2018-11-05T00:00:00+01:00"
 draft: false
-linktitle: null
+linktitle: General Information
 editable: false
-
-menu:
-  workshop-2018:
-    parent: Logistics
-    weight: 1
 title: General Information
 toc: true
-type: docs
-weight: 1
+type: book
+weight: 2
 ---
+
+{{< list_children >}}
 
 ## Venue
 

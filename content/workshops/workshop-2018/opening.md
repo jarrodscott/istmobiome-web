@@ -3,14 +3,10 @@ date: "2018-11-05T00:00:00+01:00"
 draft: false
 linktitle: Opening Day
 editable: false
-menu:
-  workshop-2018:
-    parent: Logistics
-    weight: 2
-title: Welcome
+title: Opening Day
 toc: true
-type: docs
-weight: 1
+type: book
+weight: 3
 ---
 
 Welcome to Smithsonian Tropical Research Institute (STRI) and the Bocas del Toro research station. The program for the afternoon session is pretty straightforward. We will begin with a brief overview of the workshop, discuss the importance of the Isthmus of Panama, and tell you a bit about the project that inspired this workshop.
