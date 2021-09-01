@@ -8,3 +8,5 @@ public/
 resources/
 exampleSite/
 .DS_Store
+.Rhistory
+.Rprofile
